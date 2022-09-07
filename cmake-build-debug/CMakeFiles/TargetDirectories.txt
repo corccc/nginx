@@ -1,0 +1,3 @@
+/Users/sm2/Documents/GitHub/nginx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sm2/Documents/GitHub/nginx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sm2/Documents/GitHub/nginx/cmake-build-debug/CMakeFiles/nginx.dir
